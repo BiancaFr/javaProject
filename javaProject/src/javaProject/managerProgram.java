@@ -6,7 +6,6 @@ import javax.swing.JOptionPane;
 
 public class managerProgram {
 
-	
 
 	public void startProgram() throws IOException {
 		/*

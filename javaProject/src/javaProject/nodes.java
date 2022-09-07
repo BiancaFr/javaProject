@@ -59,5 +59,4 @@ public class nodes {
 		return wordsSequence;
 	}
 }
-
 //fazer função de saida/ arrumar a saida!

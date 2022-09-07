@@ -4,7 +4,6 @@
  * and handle exceptions.
  * @author bianca
  */
-
 package javaProject;
 
 import javax.swing.JOptionPane;
